@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nome: Luccas Henrique 👨‍💻.<br>Idade: 18 anos 🎂.<br>Curso: Engenharia da Computação 🖥️.<br>País: Brasil.<br>Idiomas: Português e Inglês 🌐.<br>Hobbies: Desenvolver Sistemas Web, Programar Sistemas integrados<br>Linguagens: HTML5, CSS3, C#, C++, JavaScript, SQL.<br>Linguagem favorita: JavaScript.<br>Aprendendo: React.
+Nome: Luccas Henrique 👨‍💻.<br>Idade: 19 anos 🎂.<br>Curso: Engenharia da Computação 🖥️.<br>País: Brasil.<br>Idiomas: Português e Inglês 🌐.<br>Hobbies: Desenvolver Sistemas Web, Programar Sistemas integrados<br>Linguagens: HTML5, CSS3, C#, C++, JavaScript, SQL.<br>Linguagem favorita: JavaScript.<br>Aprendendo: React.
 
 
 ## 🌐 Socials:
